@@ -1,0 +1,13 @@
+[
+{
+  "modid": "villagevisualizer",
+  "name": "Village Visualizer",
+  "description": "Village Visualizer for minecraft",
+  "version": "0.2",
+  "mcversion": "1.10.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "dependencies": []
+}
+]

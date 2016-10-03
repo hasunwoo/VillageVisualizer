@@ -1,0 +1,68 @@
+# Compiled source #
+###################
+bin
+target
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Git #
+#######
+.git
+
+# Packages #
+############
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Project files #
+#################
+.classpath
+.project
+.settings
+.gradle
+gradle/wrapper/gradle-wrapper.properties
+MANIFEST.MF
+*.iml
+*.ipr
+*.iws
+.idea
+build
+generated
+eclipse
+out/
+dist
+nbproject
+build.number
+tools
+
+# Forge+MCP downloads #
+##################
+download
+
+# External Libs #
+##################
+src/main/resources/javassist-3.18.2-GA.jar
+src/main/resources/js_1.7_R4.jar
